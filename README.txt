@@ -22,7 +22,7 @@ Preproduction is the place to prepare the production. You need -dev packages
 
 * preinstall.sh
 * preinstall-dev.sh
-* 
+* configure-env.sh
 
 how-to update preprod
 =====================

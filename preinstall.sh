@@ -15,3 +15,4 @@ echo "deb http://repo.varnish-cache.org/debian/ $(lsb_release -s -c) varnish-2.1
 apt-get update
 apt-get install varnish
 apt-get install haproxy
+apt-get install makepasswd
